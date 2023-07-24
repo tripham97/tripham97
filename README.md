@@ -7,9 +7,8 @@
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-  :man_technologist: About Me:
 </div>
-
+ :man_technologist: About Me:
 <!--
 **tripham97/tripham97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
