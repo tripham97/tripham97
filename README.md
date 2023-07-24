@@ -9,8 +9,8 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
  :man_technologist: About Me:
- - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles, reviews.
 
