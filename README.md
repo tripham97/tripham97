@@ -15,6 +15,10 @@
 - :zap: In my free time, I solve problems on LeetCode and read tech articles, reviews.
 
 - :mailbox:How to reach me: minhtri2805@gmail.com
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
 <!--
 **tripham97/tripham97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
