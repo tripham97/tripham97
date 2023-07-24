@@ -47,7 +47,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tripham97&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Tri's GitHub stats](https://github-readme-stats.vercel.app/api?username=tripham97&show_icons=true&theme=radical)
 <!--
 **tripham97/tripham97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
